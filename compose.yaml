@@ -1,0 +1,9 @@
+services:
+  quarto:
+    build: .
+    container_name: acfe-lab-quarto
+    platform: linux/amd64
+    ports:
+      - "4200:4200"
+    volumes:
+      - .:/site

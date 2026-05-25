@@ -1,0 +1,52 @@
+---
+pagetitle: "Home"
+page-layout: full
+---
+
+::: {.top-logo-section}
+![](images/logo/acfe-logo-horizontal2.png)
+:::
+
+::: {.hero-section}
+
+::: {.hero-text}
+<!--
+# Advanced Computational Flow and Energy Lab
+-->
+### High-performance computing, and data-driven methods for complex flow and energy systems
+
+The Advanced Computational Flow and Energy Lab at North Carolina A&T State University develops computational methods for studying complex fluid flows, turbulence, energy transport, and environmental flow systems.
+
+:::
+
+<div class="hero-image">
+  <video autoplay loop muted playsinline>
+    <source src="videos/image36-small.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<!--
+::: {.hero-image}
+![](images/research/image36.gif)
+:::
+-->
+
+:::
+
+::: {.content-section}
+
+## About the Lab
+
+The Advanced Computational Flow and Energy Lab's research lies at the intersection of fluid mechanics, scientific computing, and data-driven modeling. We develop and apply computational tools to improve the understanding and prediction of complex flow systems in engineering, energy, and environmental applications.
+
+Our research focuses on high-fidelity simulation, reduced-order modeling, machine learning for computational fluid dynamics, wind energy, atmospheric and environmental flows, and fire-atmosphere interactions.
+
+[Learn more about our research](research.qmd){.primary-button}
+
+## Affiliation
+
+Department of Mechanical Engineering <br>
+North Carolina A&T State University
+
+:::

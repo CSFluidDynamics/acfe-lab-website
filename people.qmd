@@ -1,0 +1,158 @@
+---
+pagetitle: "People"
+page-layout: full
+title: ""
+---
+
+::: {.image-banner}
+![](images/banners/people-banner.png)
+:::
+
+::: {.content-section}
+
+# People
+
+
+## Principal Investigator
+
+::: {.person-card}
+
+::: {.person-photo}
+![](images/people/ChristianSantoni2.jpg)
+:::
+
+::: {.person-info}
+### Christian Santoni, Ph.D.
+
+Assistant Professor <br>
+Department of Mechanical Engineering <br>
+North Carolina A&T State University 
+
+<div class="profile-links">
+  <a class="profile-button" href="https://www.linkedin.com/in/christian-santoni-pr" target="_blank" rel="noopener">
+    <span class="button-icon">in</span> LinkedIn
+  </a>
+
+  <a class="profile-button" href="https://orcid.org/0000-0002-7578-2161" target="_blank" rel="noopener">
+    <span class="button-icon">iD</span> ORCID
+  </a>
+
+  <a class="profile-button" href="https://scholar.google.com/citations?user=sIqvB2oAAAAJ" target="_blank" rel="noopener">
+    <span class="button-icon">G</span> Scholar
+  </a>
+</div>
+
+
+<!--
+::: {.profile-links}
+[LinkedIn](https://www.linkedin.com/in/christian-santoni-pr){.profile-button}
+[ORCID](https://orcid.org/0000-0002-7578-2161){.profile-button}
+[Google Scholar](https://scholar.google.com/citations?user=sIqvB2oAAAAJ){.profile-button}
+:::
+[LinkedIn](https://www.linkedin.com/in/christian-santoni-pr) | 
+[ORCID](https://orcid.org/0000-0002-7578-2161) | 
+[Google Scholar](https://scholar.google.com/citations?user=sIqvB2oAAAAJ)
+-->
+
+Dr. Santoni's research focuses on computational fluid dynamics, large-eddy simulation, environmental and atmospheric flows, wind energy, machine learning, and high-performance computing. His work combines physics-based modeling, in-house code development, and data-driven approaches for complex flow and energy systems.
+
+**Research interests:** computational fluid dynamics, turbulence, large-eddy simulation, wind energy, environmental flows, fire-atmosphere modeling, machine learning, and high-performance computing.
+:::
+
+:::
+
+## Graduate Students
+
+::: {.person-card}
+
+::: {.person-photo}
+![](images/people/student-placeholder.svg)
+:::
+
+::: {.person-info}
+### Ebenezer Ashimolowo
+
+Ph.D. Student <br>
+Department of Mechanical Engineering <br>
+North Carolina A&T State University 
+
+<!--
+Research area: brief description of the student's research project.
+
+**Interests:** computational fluid dynamics, machine learning, turbulence, high-performance computing.
+-->
+:::
+
+:::
+
+
+<!--
+::: {.person-card}
+
+::: {.person-photo}
+![](images/people/student-name.jpg)
+:::
+
+::: {.person-info}
+### Student Name
+
+Ph.D. Student  
+Department of Mechanical Engineering  
+North Carolina A&T State University  
+
+Research area: brief description of the student's research project.
+
+**Interests:** computational fluid dynamics, machine learning, turbulence, high-performance computing.
+:::
+
+:::
+-->
+
+## Undergraduate Students
+
+::: {.person-card}
+
+::: {.person-photo}
+![](images/people/student-placeholder.svg)
+:::
+
+::: {.person-info}
+### Xavier Shepard 
+
+Undergraduate Researcher <br>
+Department of Mechanical Engineering <bar>
+North Carolina A&T State University 
+
+:::
+
+:::
+
+
+<!--
+::: {.person-card}
+
+::: {.person-photo}
+![](images/people/student-name.jpg)
+:::
+
+::: {.person-info}
+### Student Name
+
+Undergraduate Researcher  
+Department of Mechanical Engineering  
+North Carolina A&T State University  
+
+Research area: brief description of the student's research project.
+:::
+
+:::
+-->
+
+<!--
+## Alumni and Former Members
+
+Former lab members will be listed here.
+
+:::
+
+-->

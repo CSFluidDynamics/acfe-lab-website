@@ -1,0 +1,8 @@
+<svg width="400" height="500" viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="500" fill="#f1f3f5"/>
+  <circle cx="200" cy="165" r="70" fill="#c7ccd1"/>
+  <path d="M80 430c12-90 72-145 120-145s108 55 120 145" fill="#c7ccd1"/>
+  <text x="200" y="475" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#6c757d">
+    Student Photo
+  </text>
+</svg>

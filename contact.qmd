@@ -1,0 +1,50 @@
+---
+pagetitle: "Contact"
+page-layout: full
+title: ""
+---
+
+::: {.image-banner}
+![](images/banners/contact-banner.png)
+:::
+
+::: {.content-section}
+
+# Contact
+
+The Advanced Computational Flow and Energy Lab is part of the Department of Mechanical Engineering at North Carolina A&T State University.
+
+The Department of Mechanical Engineering is located in McNair Hall, with faculty offices on the sixth floor. Lab activities are supported through student research space, including space in Monroe Hall, and remote computational resources.
+
+::: {.contact-grid}
+
+::: {.contact-card}
+## Principal Investigator
+
+**Christian Santoni, Ph.D.**  
+Assistant Professor  
+Department of Mechanical Engineering  
+North Carolina A&T State University  
+
+**Email:** [cjsantoniortiz@ncat.edu](mailto:cjsantoniortiz@ncat.edu)
+:::
+
+::: {.contact-card}
+## Department
+
+Department of Mechanical Engineering  
+North Carolina A&T State University  
+Greensboro, NC  
+
+[NC A&T Mechanical Engineering](https://ncat.edu/coe/departments/me/index.php)
+:::
+
+:::
+
+## Research Inquiries
+
+Prospective students, collaborators, and research partners are welcome to contact Dr. Santoni regarding research opportunities in computational fluid dynamics, turbulence, high-performance computing, machine learning for flow modeling, wind energy, and environmental flow applications.
+
+Please include a brief description of your background, research interests, and relevant experience when reaching out.
+
+:::

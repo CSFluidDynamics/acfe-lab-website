@@ -1,0 +1,9 @@
+---
+title: "Opportunities"
+---
+
+# Opportunities
+
+We are looking for motivated students interested in fluid mechanics, turbulence, computational fluid dynamics, machine learning, and high-performance computing.
+
+Students with experience or interest in programming, numerical methods, Linux, Python, C/C++, Fortran, MATLAB, or parallel computing are encouraged to reach out.

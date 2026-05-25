@@ -1,0 +1,23 @@
+---
+pagetitle: "Publications"
+page-layout: full
+title: ""
+bibliography: references/publications.bib
+nocite: |
+  @*
+---
+
+::: {.image-banner}
+![](images/banners/publications-banner.png)
+:::
+
+::: {.content-section}
+
+For the most up-to-date publication record, please also see [Google Scholar](https://scholar.google.com/citations?user=sIqvB2oAAAAJ).
+
+# Selected Publications
+
+::: {#refs}
+:::
+
+:::
