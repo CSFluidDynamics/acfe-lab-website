@@ -66,7 +66,7 @@ Dr. Santoni's research focuses on computational fluid dynamics, large-eddy simul
 ::: {.person-card}
 
 ::: {.person-photo}
-![](images/people/EbenizerAshimolowo.jpeg)
+![](images/people/EbenezerAshimolowo.jpeg)
 :::
 
 ::: {.person-info}
@@ -111,7 +111,7 @@ Research area: brief description of the student's research project.
 ::: {.person-card}
 
 ::: {.person-photo}
-![](images/people/XavierShepard.svg)
+![](images/people/XavierShepard.jpeg)
 :::
 
 ::: {.person-info}
