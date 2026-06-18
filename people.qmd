@@ -110,7 +110,7 @@ Research area: brief description of the student's research project.
 
 ::: {.person-card}
 
-::: {.person-photo .student-photo-top}
+::: {.person-photo .student-photo-headroom}
 ![](images/people/XavierShepard.jpeg)
 :::
 

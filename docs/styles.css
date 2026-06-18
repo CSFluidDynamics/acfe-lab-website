@@ -387,6 +387,22 @@ a:hover {
   display: block;
 }
 
+.student-photo-headroom {
+  background: #f4f6f8;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.student-photo-headroom img {
+  width: 220px;
+  height: 260px;
+  object-fit: contain;
+  object-position: center center;
+  padding-top: 12px;
+  box-sizing: border-box;
+  border: none;
+}
+
 .student-photo-top img {
   object-position: center top;
 }
