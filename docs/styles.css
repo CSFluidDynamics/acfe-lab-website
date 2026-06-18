@@ -386,3 +386,7 @@ a:hover {
   object-position: center center;
   display: block;
 }
+
+.student-photo-top img {
+  object-position: center top;
+}

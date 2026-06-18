@@ -76,7 +76,7 @@ Ph.D. Student <br>
 Department of Mechanical Engineering <br>
 North Carolina A&T State University 
 
-Research area: Ebenezer is a graduate student in Mechanical Engineering. His research combines physics-based modeling, numerical simulation, CFD code development, and data analysis to investigate complex fluid flow phenomena across engineering and geophysical systems. He is particularly interested in leveraging advanced computational methods to improve understanding and prediction of multiscale flow processes.
+Ebenezer is a graduate student in Mechanical Engineering. His research combines physics-based modeling, numerical simulation, CFD code development, and data analysis to investigate complex fluid flow phenomena across engineering and geophysical systems. He is particularly interested in leveraging advanced computational methods to improve understanding and prediction of multiscale flow processes.
 
 **Interests:** Computational fluid dynamics (CFD), turbulence, wind energy, heat transfer, atmospheric modeling, and high-performance computing.
 :::
@@ -110,7 +110,7 @@ Research area: brief description of the student's research project.
 
 ::: {.person-card}
 
-::: {.person-photo}
+::: {.person-photo .student-photo-top}
 ![](images/people/XavierShepard.jpeg)
 :::
 
@@ -118,7 +118,7 @@ Research area: brief description of the student's research project.
 ### Xavier Shepard 
 
 Undergraduate Researcher <br>
-Department of Mechanical Engineering <bar>
+Department of Mechanical Engineering <br>
 North Carolina A&T State University 
 
 Xavier is a senior at North Carolina A&T State University pursuing a Bachelor of Science in Mechanical Engineering with a concentration in Aerospace Engineering. He is currently an undergraduate researcher in Dr. Santoni’s laboratory, where he is gaining experience in wind energy systems and wind turbine wake modeling using the FLORIS simulation framework developed by the National Renewable Energy Laboratory.
